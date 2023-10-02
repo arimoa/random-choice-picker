@@ -36,6 +36,10 @@ textarea {
   resize: none;
   border: none;
   margin: 10px 0;
+  transition: 0.2s;
+}
+textarea:hover {
+  background-color: #d7e0f6;
 }
 .choices {
   max-width: 400px;
